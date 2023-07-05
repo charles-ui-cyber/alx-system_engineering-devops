@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p "Enter a string: " input
+tr -d "cC"
